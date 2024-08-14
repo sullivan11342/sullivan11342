@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sullivan11342
-- 👀 I’m interested in ... creating an easily understandable and user friendly trading platform for elderly individuals who are not tech savvy. 
-- 🌱 I’m currently learning ... HTML and CSS with a little bit of Java
+- 👀 I’m interested in ... creating Power BI dashboards highlighting various KPIs through queries I build in SSMS and MySQL.
+- 🌱 I’m currently learning ... SSMS, MySQL, Power BI, Tableau, SSIS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... feel freee to Email or call me. 
 
